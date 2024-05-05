@@ -1,2 +1,3 @@
 # Weather-application-using-API
-Aplikacja pogodowa wykorzystująca API. Aplikacja napisana w HTML5 CSS3 oraz JS. Aplikacja Fron-End
+Weather application using API. Application written in HTML5 CSS3 and JS.
+Front-End application
